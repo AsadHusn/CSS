@@ -1,0 +1,7 @@
+::
+Pseudo-element is used to style specified parts of an element
+selector::pseudo-element{
+  property: value;
+}
+
+::first-line
