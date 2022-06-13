@@ -1,0 +1,10 @@
+/*
+
+a:link
+a:visited
+a:hover:
+a:active
+
+
+note: a:hover MUST come after a:link and a:visited
+note: a:active MUST come after a:hover

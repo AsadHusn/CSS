@@ -21,6 +21,7 @@ div:hover p{
 
 4. Childs
 :first-child
+:last-child
 
 first <em> element in all <p>
 p em:first-child {
