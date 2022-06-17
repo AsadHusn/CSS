@@ -1,9 +1,8 @@
 /*
 
 list-style-type: none|disc|circle|square|upper-roman|lower-alpha|upper-alpha|unset
-list-style-image: url(path)
-
 list-style-position: outside|inside
+list-style-image: url(path)
 
 Remove Default Settings
 ul {
@@ -14,7 +13,5 @@ ul {
 
 (Shorthand property)
 list-style: type position image
-
-
 
 */
