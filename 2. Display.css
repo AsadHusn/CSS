@@ -19,4 +19,7 @@ inline elements not starts with new line{
     <img>
 }
 
+inline-block
+allows to set a width and height compared to inline
+does not add a line-break compared to block 
 */
